@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="consisting" />
+      <item value="非法" />
+      <item value="Command" />
+      <item value="immutable" />
+      <item value="Populate the JavaBeans properties of the specified bean, based on * the specified name/value pairs." />
+      <item value="parameter types" />
+      <item value="arguments" />
+      <item value="Returns a new instance of the specified class choosing the right constructor * from the list of parameter types." />
+      <item value="Returns a new instance of the specified class inferring the right constructor * from the types of the arguments" />
+      <item value="&gt;Returns a new instance of the specified class inferring the right constructor * from the types of the arguments." />
+      <item value="the array of parameter types" />
+      <item value="Immutable Pair" />
+      <item value="Pair" />
+      <item value="mutable" />
+      <item value="The Java language specification only permits certain types to be used * in annotations. These include {@link String}, {@link Class}, primitive * types, {@link Annotation}, {@link Enum}, and single-dimensional arrays of * these types." />
+      <item value="specification" />
+      <item value="strategy" />
+      <item value="List of sensitive headers that are not passed to downstream requests. Defaults * to a &quot;safe&quot; set of headers that commonly contain user credentials. It's OK to * remove those from the list if the downstream service is part of the same system * as the proxy, so they are sharing authentication data. If using a physical URL * outside your own domain, then generally it would be a bad idea to leak user * credentials." />
+      <item value="emitter" />
+      <item value="Synonym" />
+      <item value="mestric" />
+      <item value="publbic" />
+      <item value="Pay attention that if a collapser method returns parametrized Future then generic type must be equal to generic type of List," />
+      <item value="The thread-pool key is used to represent a * HystrixThreadPool for monitoring, metrics publishing, caching and other such uses." />
+      <item value="HystrixThreadPool for monitoring, metrics publishing, caching and other such uses." />
+      <item value="init With Niws Config" />
+      <item value="Dummy Ping" />
+      <item value="Conditional On Missing Bean" />
+      <item value="Zone Avoidance Rule" />
+      <item value="Spring Application" />
+      <item value="The name of the ribbon client, uniquely identifying a set of client resources," />
+      <item value="identifying a set o" />
+      <item value="Modulo" />
+      <item value="Convenience annotation for clients to enable Eureka discovery configuration * (specifically). Use this (optionally) in case you want discovery and know for sure that * it is Eureka you want. All it does is turn on discovery and let the autoconfiguration * find the eureka classes if they are available (i.e. you need Eureka on the classpath as * well)." />
+      <item value="The class that is instrumental for interactions with" />
+      <item value="instrumental" />
+      <item value="MINUTES" />
+      <item value="Exchange an access code" />
+      <item value="The hostname if it can be determined at configuration time" />
+      <item value="后缀" />
+      <item value="注入" />
+      <item value="拦截器" />
+      <item value="Expectation" />
+      <item value="The package of each class specified will be scanned" />
+      <item value="to scan for annotated components" />
+      <item value="Type-safe alternative to {@link #basePackages} for specifying the packages" />
+      <item value="populating" />
+      <item value="execute" />
+      <item value="multi" />
+      <item value="转换" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

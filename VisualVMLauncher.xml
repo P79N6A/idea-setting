@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="debug" value="true" />
+    <option name="visualVmExecutable" value="C:/DevTool/visualvm_141/bin/visualvm.exe" />
+  </component>
+</application>
